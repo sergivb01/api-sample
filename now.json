@@ -1,5 +1,6 @@
 {
   "name": "api-sample",
+  "type": "npm",
   "alias": [
     "api-sample.dev.sergivb01.me"
   ],
