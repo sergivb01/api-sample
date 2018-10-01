@@ -1,9 +1,9 @@
 {
-	"name": "api-sample",
-	"alias": [
-		"api-sample.dev.sergivb01.me"
-	],
-	"env": {
-		"NODE_ENV": "development"
-	}
+  "name": "api-sample",
+  "alias": [
+    "api-sample.dev.sergivb01.me"
+  ],
+  "env": {
+    "NODE_ENV": "development"
+  }
 }
