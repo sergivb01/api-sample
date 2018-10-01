@@ -1,0 +1,9 @@
+{
+	"name": "api-example",
+	"alias": [
+		"api-example.dev.sergivb01.me"
+	],
+	"env": {
+		"NODE_ENV": "development"
+	}
+}
