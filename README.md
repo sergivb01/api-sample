@@ -1,2 +1,2 @@
-# Restful API sample code
+# Restful API sample &middot; [![Travis (.com)](https://img.shields.io/travis/com/sergivb01/api-sample.svg)](https://) [![Known Vulnerabilities](https://snyk.io/test/github/sergivb01/api-sample/badge.svg?targetFile=package.json)](https://snyk.io/test/github/sergivb01/api-sample?targetFile=package.json) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 This should be a brief description of what does this API do and how does it perform
