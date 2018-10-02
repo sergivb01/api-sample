@@ -13,7 +13,7 @@
     "audit": "snyk test",
     "test": "mocha",
     "test:watch": "mocha -w",
-    "devdeploy": "now && now alias"
+    "devdeploy": "now rm api-sample --yes && now && now alias"
   },
   "author": "Sergi Vos Bosch <me@sergivb01.me> (https://sergivb01.me)",
   "license": "MIT",
