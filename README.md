@@ -1,5 +1,6 @@
 # 💻 Restful API sample
 [![travis][travis]][travis-url] <!-- travis-ci.com -->
+[![circle][circle]][circle-url] <!-- circleci.com -->
 [![snyk][snyk]][snyk-url] <!-- snyk.io -->
 [![deps][deps]][deps-url] <!-- https://david-dm.org -->
 [![pr_welcome][pr_welcome]][pr_welcome-url] <!-- /pulls -->
@@ -43,6 +44,10 @@ APi Sample is licensed under the [MIT License](LICENSE).
 <!-- Travis-ci.com -->
 [travis]: https://img.shields.io/travis/com/sergivb01/api-sample.svg
 [travis-url]: https://travis-ci.com/sergivb01/api-sample
+
+<!-- Circleci.com -->
+[circle]: https://circleci.com/gh/sergivb01/api-sample.svg?style=svg
+[circle-url]: https://circleci.com/gh/sergivb01/api-sample
 
 <!-- Snyk -->
 [snyk]: https://snyk.io/test/github/sergivb01/api-sample/badge.svg?targetFile=package.json
