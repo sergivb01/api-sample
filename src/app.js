@@ -9,7 +9,7 @@ const api = require('./api')
 
 const app = express()
 
-app.use(morgan('dev'))
+app.use(morgan(process.env.NODE_ENV === 'production' ? 'combined' : 'dev'))
 app.use(helmet())
 
 app.get('/', (req, res) => {
