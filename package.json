@@ -13,8 +13,8 @@
     "type": "git",
     "url": "https://github.com/sergivb01/api-sample"
   },
-  "main": "index.js",
   "private": true,
+  "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
     "lint": "eslint --fix src",

@@ -1,9 +1,13 @@
 module.exports = {
   "env": {
     "es6": true,
-    "node": true
+    "node": true,
+    "browser": true
   },
-  "extends": "eslint:recommended",
+  "extends": [
+    "eslint:recommended",
+    "prettier"
+  ],
   "parserOptions": {
     "ecmaVersion": 2018
   },
@@ -15,6 +19,12 @@ module.exports = {
     "indent": [
       "error",
       2
+    ],
+    "no-unused-vars": [
+      1,
+      {
+        "argsIgnorePattern": "res|next|^err"
+      }
     ],
     "linebreak-style": [
       "error",
@@ -28,5 +38,8 @@ module.exports = {
       0,
       "never"
     ]
-  }
+  },
+  "plugins": [
+    "prettier"
+  ]
 }
