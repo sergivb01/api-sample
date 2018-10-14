@@ -1,8 +1,8 @@
+require('dotenv').config()
+
 const express = require('express')
 const morgan = require('morgan')
 const helmet = require('helmet')
-
-require('dotenv').config()
 
 const middlewares = require('./middlewares')
 const api = require('./api')

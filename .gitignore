@@ -77,3 +77,6 @@ typings/
 
 # NPM Package Lock
 package-lock.json
+
+# shrinkwrap file
+shrinkwrap.yml
