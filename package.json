@@ -25,7 +25,7 @@
     "dev": "nodemon src/index.js"
   },
   "dependencies": {
-    "dotenv": "^6.0.0",
+    "dotenv": "^7.0.0",
     "express": "^4.16.3",
     "helmet": "^3.13.0",
     "morgan": "^1.9.0"
