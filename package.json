@@ -35,7 +35,7 @@
     "mocha": "^5.2.0",
     "nodemon": "^1.18.3",
     "snyk": "^1.89.0",
-    "supertest": "^3.1.0"
+    "supertest": "^4.0.2"
   },
   "license": "MIT"
 }
